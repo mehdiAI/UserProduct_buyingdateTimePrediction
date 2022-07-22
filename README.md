@@ -5,6 +5,6 @@ It should be mentioned that in the second stage, the extraction of features was 
 You can search this project and extracted data in my kaggle account. <br />
 https://www.kaggle.com/mfakouri <br />
 source of data: <br />
-https://quera.org/problemset/138165/
+https://quera.org/problemset/138165/ <br />
 aditional link: <br />
 https://www.researchgate.net/publication/346846529_Using_machine_learning_to_predict_the_next_purchase_date_for_an_individual_retail_customer
